@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, BubbleShootActivity!</string>
+    <string name="app_name">BubbleShoot</string>
+    <string name="banner_ad_unit_id_2">ca-app-pub-6397722208064327/3020358096</string>
+    <string name="banner_ad_unit_id_3">ca-app-pub-6397722208064327/4497091293</string>
+    <string name="banner_ad_unit_id_4">ca-app-pub-6397722208064327/4357490496</string>
+
+</resources>
